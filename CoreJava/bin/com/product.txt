@@ -1,0 +1,4 @@
+   Product name    ||   product price   ||   procuct offer price   ||  
+   ||   mobile   ||   9000.0   ||   7500.0   ||  
+   ||   laptop   ||   75000.0   ||   69999.0   ||  
+   ||   headset   ||   3000.0   ||   1500.0   ||  

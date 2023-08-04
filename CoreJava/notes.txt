@@ -1,0 +1,7 @@
+ product name          =  =   product price
+Redmi Mobile         =  =    15000
+Laptop               =  =    75000
+Vivo charger         =  =    1200
+Bluetooth Headset    =  =    2999
+Mouse                =  =    200 
+Keyboard             =  =    150
